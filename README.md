@@ -3,7 +3,7 @@
 <a href="https://codecov.io/gh/goapt/errorx"><img src="https://codecov.io/gh/goapt/errorx/branch/master/graph/badge.svg" alt="codecov"></a>
 <a href="https://goreportcard.com/report/github.com/goapt/errorx"><img src="https://goreportcard.com/badge/github.com/goapt/errorx" alt="Go Report Card
 "></a>
-<a href="https://pkg.go.dev/github.com/goapt/errorx"><img src="https://pkg.go.dev/github.com/goapt/errorx?status.svg" alt="GoDoc"></a>
+<a href="https://pkg.go.dev/github.com/goapt/errorx"><img src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square" alt="GoDoc"></a>
 <a href="https://opensource.org/licenses/mit-license.php" rel="nofollow"><img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103"></a>
 
 golang combine error package
